@@ -1,5 +1,4 @@
 # Alternative to Switch case in typescript  
-=====
 
 ----------
 Hello Developer, how are you?
