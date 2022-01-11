@@ -94,3 +94,4 @@ References
 -------------
 * https://angular.io/api/core/Type
 * https://ultimatecourses.com/blog/deprecating-the-switch-statement-for-object-literals
+* https://www.typescriptlang.org/docs/handbook/2/template-literal-types.html
