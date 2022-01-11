@@ -12,7 +12,7 @@ enum Color{
     GREEN = "GREEN"
 }
 
-```typescript
+```
 
 With switch case
 -------------
@@ -37,7 +37,7 @@ Method with switch
         return resultColor;
     }
 
-```typescript
+```
 
 
 Now with use type
@@ -48,7 +48,7 @@ add new Type ColorKeys
 type ColorKeys = {
     [key in Color]: string;
 }
-```typescript
+```
 
 
 Now use
@@ -64,7 +64,7 @@ Now use
         }
         return helper[colors.color];
     }
-```typescript
+```
 
 
 
