@@ -1,4 +1,4 @@
-# Alternativa ao Switch case em typescript 
+# Alternative to Switch case in typescript  
 =====
 
 Enum Color
