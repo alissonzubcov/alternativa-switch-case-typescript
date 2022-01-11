@@ -1,4 +1,3 @@
-"# alternativa-switch-case-typescript"
 # Alternativa ao Switch case em typescript 
 =====
 
