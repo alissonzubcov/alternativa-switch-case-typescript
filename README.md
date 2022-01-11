@@ -1,6 +1,20 @@
 # Alternative to Switch case in typescript  
 =====
 
+----------
+Hello Developer, how are you?
+I will present an alternative to using switch case.
+
+Do you know what a switch case is?
+When a lot of else ifs appear, we soon think about using a switch case to solve our problem of many ifs.
+
+The switch case approach may seem like the solution to many ifs, but is it really the solution?
+
+The switch case has several problems, from its procedural control flow to its non-standardization in dealing with blocks.
+of code. Javascript uses keys, but switch does not. In your design we are forced to manually add the
+breaks via the word break.
+
+
 Enum Color
 -------------
 Color
